@@ -1,5 +1,3 @@
-Certainly! Here's an example of the content you can include in the README file for your contact form project:
-
 # Contact Form
 
 This is a simple contact form web application that allows users to send messages through a form submission.
